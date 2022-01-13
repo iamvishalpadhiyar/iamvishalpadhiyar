@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @iamvishalpadhiyar
 - 👀 I’m interested in ... Coding
 - 🌱 I’m currently learning ... BCA
-- 💞️ I’m looking to collaborate on ... Anyone
-- 📫 How to reach me ... dont
+- 💞️ I’m looking to collaborate on ... 
+- 📫 How to reach me ... 
 
 <!---
 iamvishalpadhiyar/iamvishalpadhiyar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
